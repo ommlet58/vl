@@ -9,8 +9,6 @@ import ursinho_estudando from "./assets/ursinho_estudando.gif";
 import pandinha_brava from "./assets/pandinha_fofa_cara_de_brava.gif";
 import pandinha from "./assets/pandinha.gif";
 import ursinho_S2_pandinha from "./assets/ursinho_S2_pandinha.gif";
-import ursinha_chorando from "./assets/ursinha_chorando.gif";
-import ursinho_chorando from "./assets/ursinho_chorando.gif";
 import pandinha_martelo from "./assets/pandinha_martelo.png";
 import ursinho_catucando_pandinha from "./assets/ursinho_catucando_pandinha.gif";
 import ursinho_coracao from "./assets/ursinho_coracao.jpg";
